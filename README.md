@@ -54,7 +54,7 @@ Selamat datang di repository **To-Do List App**! 🚀 Aplikasi sederhana ini dir
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/your-username/to-do-list-app.git
+   git clone https://github.com/syn/to-do-list-app.git
    ```
 2. Masuk ke direktori proyek:
    ```bash
